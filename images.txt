@@ -1,3 +1,4 @@
 #hiyouga/llamafactory:0.9.4
-pytorch/pytorch:2.8.0-cuda12.9-cudnn9-runtime
+#pytorch/pytorch:2.8.0-cuda12.9-cudnn9-runtime
+pytorch/pytorch:2.8.0-cuda12.9-cudnn9-devel
 #想用什么镜像末尾加
